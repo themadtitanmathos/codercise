@@ -1,0 +1,22 @@
+{
+  "name": "@axosoft/codercise",
+  "version": "1.0.0",
+  "description": "codercise",
+  "main": "doThingsAndStuff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themadtitanmathos/codercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themadtitanmathos/codercise/issues"
+  },
+  "homepage": "https://github.com/themadtitanmathos/codercise#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
